@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference=olleh betty
+sudo chmod --reference=olleh betty
